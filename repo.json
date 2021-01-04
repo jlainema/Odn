@@ -1,0 +1,14 @@
+[{
+  "Name": "Odn",
+  "Description": "0d database + visualizer / simulation framework",
+  "Tags": ["0din", "Odin", "0dn", "Odn", "ray", "physics", "simulation", "swarm", "AI"],
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/jlainema/Odn/archive/v1.0.0.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]
